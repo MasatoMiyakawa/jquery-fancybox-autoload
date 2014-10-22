@@ -1,4 +1,5 @@
 jquery-fancybox-autoload
 ========================
 
-necessary plugin is fancybox.
+Include necessary JS files
+jquery, fancybox
